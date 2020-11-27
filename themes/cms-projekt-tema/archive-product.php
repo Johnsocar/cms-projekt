@@ -23,7 +23,7 @@ get_header(); ?>
 
 			<?php
 			get_template_part( 'loop' );
-            //hejhejdådå
+            //hejhej
 		else :
 
 			get_template_part( 'content', 'none' );
