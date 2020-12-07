@@ -14,3 +14,34 @@ Text Domain:  cmsprojektstore
 .site-branding {
 text-align:center;
 }
+.posted-on {
+    display: none;
+}
+.post-author {
+    display: none;
+}
+.post-comments {
+    display: none;
+}
+.site-search {
+    display: none;
+}
+.storefront-sorting {
+    display: none;
+}
+.cat-links {
+    display: none;
+}
+.entry-title {
+    text-align: center;
+}
+.entry-content p {
+    text-align: center;
+}
+.site-branding img {
+	display: block;
+	width: auto;
+	line-height: 1;
+  margin-left: auto;
+  margin-right: auto;
+}
