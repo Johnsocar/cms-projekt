@@ -12,7 +12,7 @@ Text Domain:  cmsprojektstore
 
 /* Write here your own personal stylesheet */
 .site-branding {
-text-align:center;
+text-align: center;
 }
 .posted-on {
     display: none;
@@ -39,10 +39,11 @@ text-align:center;
     text-align: center;
 }
 .site-branding img {
-	display: block;
-	width: auto;
-	line-height: 1;
+display: block;
+        width: auto;
+        line-height: 1;
   margin-left: auto;
   margin-right: auto;
+	
 }
-hej
+
