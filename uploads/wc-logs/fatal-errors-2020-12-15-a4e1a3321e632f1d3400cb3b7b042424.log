@@ -1,0 +1,14 @@
+2020-12-15T10:43:48+00:00 CRITICAL Uncaught Error: Class 'DOMElement' not found in /var/www/tenta_wp/wp-content/plugins/loco-translate/src/config/XMLModel.php:99
+Stack trace:
+#0 /var/www/tenta_wp/wp-content/plugins/loco-translate/loco.php(114): include()
+#1 /var/www/tenta_wp/wp-content/plugins/loco-translate/loco.php(160): loco_include()
+#2 [internal function]: loco_autoload()
+#3 /var/www/tenta_wp/wp-content/plugins/loco-translate/src/config/BundleWriter.php(26): spl_autoload_call()
+#4 /var/www/tenta_wp/wp-content/plugins/loco-translate/src/admin/bundle/DebugController.php(46): Loco_config_BundleWriter->toXml()
+#5 /var/www/tenta_wp/wp-content/plugins/loco-translate/src/mvc/AdminRouter.php(241): Loco_admin_bundle_DebugController->render()
+#6 /var/www/tenta_wp/wp-includes/class-wp-hook.php(287): Loco_mvc_AdminRouter->renderPage()
+#7 /var/www/tenta_wp/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#8 /var/www/tenta_wp/wp-includes/plugin.php(478): WP_Hook->do_action()
+#9 /var/www/tenta_wp/wp-admin/admin.php(259): do_action()
+#10 {mai in /var/www/tenta_wp/wp-content/plugins/loco-translate/src/config/XMLModel.php on line 99
+
