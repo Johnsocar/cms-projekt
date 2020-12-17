@@ -1,0 +1,52 @@
+/*
+Theme Name:   cmsprojektstore
+Description:  A theme for a store
+Author:       Mathias
+Author URL:   http://178.62.192.9
+Template:     cms-projekt-tema
+Version:      1.0
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:  cmsprojektstore
+*/
+
+/* Write here your own personal stylesheet */
+
+.site-branding {
+text-align: center
+}
+.posted-on {
+    display: none;
+}
+.post-author {
+    display: none;
+}
+.post-comments {
+    display: none;
+}
+.site-search {
+    display: none;
+}
+.storefront-sorting {
+    display: none;
+}
+.cat-links {
+    display: none;
+}
+.entry-title {
+    text-align: center;
+}
+.entry-content p {
+    text-align: center;
+}
+
+.site-branding img {
+    display: block;
+            width: auto;
+            line-height: 1;
+      margin-left: auto;
+      margin-right: auto;
+    
+    }
+    
+    

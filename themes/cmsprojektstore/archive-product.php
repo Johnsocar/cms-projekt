@@ -13,7 +13,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit; // Exit if accessed directly
 }
 
-get_header( 'shop' ); ?>
+get_header( 'shop' );  ?>
 
 	<?php
 		/**
@@ -66,11 +66,6 @@ get_header( 'shop' ); ?>
 			<?php woocommerce_product_loop_end(); ?>
 
 			<?php
-<<<<<<< HEAD
-			get_template_part( 'loop' );
-            //hejhej
-		else :
-=======
 				/**
 				 * woocommerce_after_shop_loop hook
 				 *
@@ -80,7 +75,6 @@ get_header( 'shop' ); ?>
 			?>
 
 		<?php elseif ( ! woocommerce_product_subcategories( array( 'before' => woocommerce_product_loop_start( false ), 'after' => woocommerce_product_loop_end( false ) ) ) ) : ?>
->>>>>>> dev
 
 			<?php wc_get_template( 'loop/no-products-found.php' ); ?>
 

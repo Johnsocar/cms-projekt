@@ -1,0 +1,80 @@
+2020-12-14T09:32:32+00:00 CRITICAL Uncaught Error: Call to undefined function simplexml_load_file() in /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/includes/class-wp-installer.php:864
+Stack trace:
+#0 /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/includes/class-wp-installer.php(79): WP_Installer->load_repositories_list()
+#1 /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/includes/class-wp-installer.php(60): WP_Installer->__construct()
+#2 /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/includes/functions-core.php(6): WP_Installer::instance()
+#3 /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/installer.php(15): WP_Installer()
+#4 /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/loader.php(166): include_once('/var/www/tenta_...')
+#5 /var/www/tenta_wp/wp-includes/class-wp-hook.php(287): wpml_installer_instance_delegator()
+#6 /var/www in /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/includes/class-wp-installer.php on line 864
+
+2020-12-14T09:32:41+00:00 CRITICAL Uncaught Error: Call to undefined function simplexml_load_file() in /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/includes/class-wp-installer.php:864
+Stack trace:
+#0 /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/includes/class-wp-installer.php(79): WP_Installer->load_repositories_list()
+#1 /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/includes/class-wp-installer.php(60): WP_Installer->__construct()
+#2 /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/includes/functions-core.php(6): WP_Installer::instance()
+#3 /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/installer.php(15): WP_Installer()
+#4 /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/loader.php(166): include_once('/var/www/tenta_...')
+#5 /var/www/tenta_wp/wp-includes/class-wp-hook.php(287): wpml_installer_instance_delegator()
+#6 /var/www in /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/includes/class-wp-installer.php on line 864
+
+2020-12-14T09:36:29+00:00 CRITICAL Uncaught Error: Call to undefined function simplexml_load_file() in /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/includes/class-wp-installer.php:864
+Stack trace:
+#0 /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/includes/class-wp-installer.php(79): WP_Installer->load_repositories_list()
+#1 /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/includes/class-wp-installer.php(60): WP_Installer->__construct()
+#2 /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/includes/functions-core.php(6): WP_Installer::instance()
+#3 /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/installer.php(15): WP_Installer()
+#4 /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/loader.php(166): include_once('/var/www/tenta_...')
+#5 /var/www/tenta_wp/wp-includes/class-wp-hook.php(287): wpml_installer_instance_delegator()
+#6 /var/www in /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/includes/class-wp-installer.php on line 864
+
+2020-12-14T09:36:38+00:00 CRITICAL Uncaught Error: Call to undefined function simplexml_load_file() in /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/includes/class-wp-installer.php:864
+Stack trace:
+#0 /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/includes/class-wp-installer.php(79): WP_Installer->load_repositories_list()
+#1 /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/includes/class-wp-installer.php(60): WP_Installer->__construct()
+#2 /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/includes/functions-core.php(6): WP_Installer::instance()
+#3 /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/installer.php(15): WP_Installer()
+#4 /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/loader.php(166): include_once('/var/www/tenta_...')
+#5 /var/www/tenta_wp/wp-includes/class-wp-hook.php(287): wpml_installer_instance_delegator()
+#6 /var/www in /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/includes/class-wp-installer.php on line 864
+
+2020-12-14T09:38:39+00:00 CRITICAL Uncaught Error: Call to undefined function simplexml_load_file() in /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/includes/class-wp-installer.php:864
+Stack trace:
+#0 /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/includes/class-wp-installer.php(79): WP_Installer->load_repositories_list()
+#1 /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/includes/class-wp-installer.php(60): WP_Installer->__construct()
+#2 /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/includes/functions-core.php(6): WP_Installer::instance()
+#3 /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/installer.php(15): WP_Installer()
+#4 /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/loader.php(166): include_once('/var/www/tenta_...')
+#5 /var/www/tenta_wp/wp-includes/class-wp-hook.php(287): wpml_installer_instance_delegator()
+#6 /var/www in /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/includes/class-wp-installer.php on line 864
+
+2020-12-14T09:39:43+00:00 CRITICAL Uncaught Error: Call to undefined function simplexml_load_file() in /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/includes/class-wp-installer.php:864
+Stack trace:
+#0 /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/includes/class-wp-installer.php(79): WP_Installer->load_repositories_list()
+#1 /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/includes/class-wp-installer.php(60): WP_Installer->__construct()
+#2 /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/includes/functions-core.php(6): WP_Installer::instance()
+#3 /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/installer.php(15): WP_Installer()
+#4 /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/loader.php(166): include_once('/var/www/tenta_...')
+#5 /var/www/tenta_wp/wp-includes/class-wp-hook.php(287): wpml_installer_instance_delegator()
+#6 /var/www in /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/includes/class-wp-installer.php on line 864
+
+2020-12-14T09:41:44+00:00 CRITICAL Uncaught Error: Call to undefined function simplexml_load_file() in /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/includes/class-wp-installer.php:864
+Stack trace:
+#0 /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/includes/class-wp-installer.php(79): WP_Installer->load_repositories_list()
+#1 /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/includes/class-wp-installer.php(60): WP_Installer->__construct()
+#2 /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/includes/functions-core.php(6): WP_Installer::instance()
+#3 /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/installer.php(15): WP_Installer()
+#4 /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/loader.php(166): include_once('/var/www/tenta_...')
+#5 /var/www/tenta_wp/wp-includes/class-wp-hook.php(287): wpml_installer_instance_delegator()
+#6 /var/www in /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/includes/class-wp-installer.php on line 864
+
+2020-12-14T09:43:45+00:00 CRITICAL Uncaught Error: Call to undefined function simplexml_load_file() in /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/includes/class-wp-installer.php:864
+Stack trace:
+#0 /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/includes/class-wp-installer.php(79): WP_Installer->load_repositories_list()
+#1 /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/includes/class-wp-installer.php(60): WP_Installer->__construct()
+#2 /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/includes/functions-core.php(6): WP_Installer::instance()
+#3 /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/installer.php(15): WP_Installer()
+#4 /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/loader.php(166): include_once('/var/www/tenta_...')
+#5 /var/www/tenta_wp/wp-includes/class-wp-hook.php(287): wpml_installer_instance_delegator()
+#6 /var/www in /var/www/tenta_wp/wp-content/plugins/woocommerce-multilingual/vendor/otgs/installer/includes/class-wp-installer.php on line 864
+
